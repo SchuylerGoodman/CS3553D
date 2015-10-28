@@ -15,7 +15,7 @@ public class CS355LWJGL
     try 
     {
       main = new LWJGLSandbox();
-      main.create(new SOLUTION());
+      main.create(new CS355LWJGLControllerImpl());
       main.run();
     }
     catch(Exception ex) 
