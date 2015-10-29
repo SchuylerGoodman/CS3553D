@@ -2,48 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1d008c5-4f57-462b-9ebc-4d853c26b219" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CS355/LWJGL/CS355LWJGLControllerImpl.java" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\.idea\libraries\lwjgl.xml" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\LWJGL\src\CS355LWJGL.java" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\LWJGL\src\CS355LWJGLController.java" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\LWJGL\src\HouseModel.java" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\LWJGL\src\LWJGLSandbox.java" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\LWJGL\src\Line3D.java" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\LWJGL\src\Point3D.java" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\LWJGL\src\StudentLWJGLController.java" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\LWJGL\src\WireFrame.java" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\build.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\doc\3rdparty\glfw_license.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\doc\3rdparty\jemalloc_license.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\doc\3rdparty\khronos_license.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\doc\3rdparty\libffi_license.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\doc\3rdparty\oculus_license.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\doc\LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\doc\javadoc.zip" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\OpenAL.dll" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\glfw.dll" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\glfw32.dll" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\jemalloc.dll" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\jemalloc32.dll" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\libglfw.dylib" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\libglfw.so" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\libglfw32.so" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\libjemalloc.dylib" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\libjemalloc.so" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\libjemalloc32.so" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\liblwjgl.dylib" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\liblwjgl.so" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\liblwjgl32.so" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\libopenal.dylib" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\libopenal.so" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\libopenal32.so" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\native\lwjgl32.dll" afterPath="" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\lib\lwjgl\src.zip" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lwjgl/native/OpenAL32.dll" afterPath="$PROJECT_DIR$/lib/lwjgl/native/OpenAL32.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lwjgl/native/lwjgl.dll" afterPath="$PROJECT_DIR$/lib/lwjgl/native/lwjgl.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lwjgl/jar/lwjgl.jar" afterPath="$PROJECT_DIR$/lib/lwjgl/jar/lwjgl.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS3553D.iml" afterPath="$PROJECT_DIR$/CS3553D.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CS355/LWJGL/CS355LWJGL.java" afterPath="$PROJECT_DIR$/src/CS355/LWJGL/CS355LWJGL.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CS355/LWJGL/StudentLWJGLController.java" afterPath="$PROJECT_DIR$/src/CS355/LWJGL/StudentLWJGLController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CS3553D.iws" />
@@ -70,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/CS355LWJGL.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -116,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LWJGLSandbox.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LWJGLSandbox.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/LWJGLSandbox.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.87472034">
-              <caret line="67" column="2" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,22 +93,19 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="e#300#301#0" expanded="false" />
-                <element signature="e#345#346#0" expanded="false" />
-                <element signature="e#399#400#0" expanded="false" />
-                <element signature="e#448#449#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentLWJGLController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StudentLWJGLController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/StudentLWJGLController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
-              <folding />
+            <state vertical-scroll-proportion="0.82512736">
+              <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -158,11 +115,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#183#184#0" expanded="false" />
-                <element signature="e#240#241#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -189,6 +142,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/CS355/LWJGL/CS355LWJGLControllerImpl.java" />
         <option value="$PROJECT_DIR$/src/CS355/LWJGL/CS355LWJGL.java" />
+        <option value="$PROJECT_DIR$/src/CS355/LWJGL/StudentLWJGLController.java" />
       </list>
     </option>
   </component>
@@ -231,8 +185,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -319,7 +273,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -525,6 +479,13 @@
       <option name="number" value="Default" />
       <updated>1445627295502</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fixed dependencies">
+      <created>1446071039771</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1446071039771</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -539,21 +500,21 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32901832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.399137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -567,8 +528,14 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed dependencies" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -576,6 +543,82 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/CS355LWJGL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/CS355LWJGLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/CS355LWJGLControllerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/HouseModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/Line3D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/LWJGLSandbox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/Point3D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/StudentLWJGLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/WireFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/CS355LWJGL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -622,12 +665,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#300#301#0" expanded="false" />
-            <element signature="e#345#346#0" expanded="false" />
-            <element signature="e#399#400#0" expanded="false" />
-            <element signature="e#448#449#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -635,6 +673,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/WireFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -643,11 +691,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#183#184#0" expanded="false" />
-            <element signature="e#240#241#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -655,6 +699,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/CS355LWJGLControllerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/CS355LWJGL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/CS355LWJGLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -671,63 +739,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#300#301#0" expanded="false" />
-            <element signature="e#345#346#0" expanded="false" />
-            <element signature="e#399#400#0" expanded="false" />
-            <element signature="e#448#449#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/WireFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#183#184#0" expanded="false" />
-            <element signature="e#240#241#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/CS355LWJGLController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/CS355LWJGLControllerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/CS355LWJGL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/StudentLWJGLController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/LWJGLSandbox.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.87472034">
-          <caret line="67" column="2" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/StudentLWJGLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82512736">
+          <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
