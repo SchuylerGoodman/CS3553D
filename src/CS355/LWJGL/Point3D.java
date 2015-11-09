@@ -17,7 +17,7 @@ public class Point3D
         z = newZ;
     }
 
-    double length() 
+    double length()
     {
         return Math.sqrt(x*x+y*y+z*z);
     }
@@ -28,7 +28,7 @@ public class Point3D
         return "X: "+x+", Y: "+y+", Z:"+z;
     }
 
-    void Normalize() 
+    void Normalize()
     {
         Double denominator = Math.sqrt(x*x+y*y+z*z);
         x/=denominator;
