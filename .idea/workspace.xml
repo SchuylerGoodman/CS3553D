@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1d008c5-4f57-462b-9ebc-4d853c26b219" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CS355/LWJGL/camera/Camera.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CS355/LWJGL/camera/CameraController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CS355/LWJGL/camera/CameraDefaults.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CS355/LWJGL/camera/ICamera.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CS355/LWJGL/camera/ICameraController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CS355/LWJGL/camera/ICameraDefaults.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CS355/LWJGL/StreetModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CS355/LWJGL/StudentWireFrame.java" />
-      <change type="DELETED" beforePath="F:\GitHub\CS3553D\src\CS355\LWJGL\CS355LWJGLControllerImpl.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CS355/LWJGL/Point3D.java" afterPath="$PROJECT_DIR$/src/CS355/LWJGL/Point3D.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CS355/LWJGL/StudentLWJGLController.java" afterPath="$PROJECT_DIR$/src/CS355/LWJGL/StudentLWJGLController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -87,8 +77,8 @@
       <file leaf-file-name="StudentLWJGLController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/StudentLWJGLController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35689294">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.8327502">
+              <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -555,7 +545,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446145134490</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finished with lab and extra credit.">
+      <created>1447105131387</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1447105131387</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -610,7 +606,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixed dependencies" />
     <MESSAGE value="Cleaned some things up." />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleaned some things up." />
+    <MESSAGE value="Finished with lab and extra credit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished with lab and extra credit." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -659,6 +656,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -883,6 +881,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1035,8 +1034,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CS355/LWJGL/StudentLWJGLController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35689294">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.8327502">
+          <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

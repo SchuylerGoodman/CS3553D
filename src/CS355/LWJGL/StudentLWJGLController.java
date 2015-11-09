@@ -84,45 +84,55 @@ public class StudentLWJGLController implements CS355LWJGLController
         {
             this.cameraController.moveLeft(MOVE_AMOUNT);
         }
-        else if (Keyboard.isKeyDown(Keyboard.KEY_D))
+
+        if (Keyboard.isKeyDown(Keyboard.KEY_D))
         {
             this.cameraController.moveRight(MOVE_AMOUNT);
         }
-        else if (Keyboard.isKeyDown(Keyboard.KEY_W))
+
+        if (Keyboard.isKeyDown(Keyboard.KEY_W))
         {
             this.cameraController.moveForward(MOVE_AMOUNT);
         }
-        else if (Keyboard.isKeyDown(Keyboard.KEY_S))
+
+        if (Keyboard.isKeyDown(Keyboard.KEY_S))
         {
             this.cameraController.moveBackward(MOVE_AMOUNT);
         }
-        else if (Keyboard.isKeyDown(Keyboard.KEY_R))
+
+        if (Keyboard.isKeyDown(Keyboard.KEY_R))
         {
             this.cameraController.moveUp(MOVE_AMOUNT);
         }
-        else if (Keyboard.isKeyDown(Keyboard.KEY_F))
+
+        if (Keyboard.isKeyDown(Keyboard.KEY_F))
         {
             this.cameraController.moveDown(MOVE_AMOUNT);
         }
-        else if (Keyboard.isKeyDown(Keyboard.KEY_Q))
+
+        if (Keyboard.isKeyDown(Keyboard.KEY_Q))
         {
             this.cameraController.turnLeft(ROTATE_AMOUNT);
         }
-        else if (Keyboard.isKeyDown(Keyboard.KEY_E))
+
+        if (Keyboard.isKeyDown(Keyboard.KEY_E))
         {
             this.cameraController.turnRight(ROTATE_AMOUNT);
         }
-        else if (Keyboard.isKeyDown(Keyboard.KEY_H))
+
+        if (Keyboard.isKeyDown(Keyboard.KEY_H))
         {
             this.cameraController.resetDefaults();
         }
-        else if (Keyboard.isKeyDown(Keyboard.KEY_O))
-        {
-            this.glSetOrthographic();
-        }
-        else if (Keyboard.isKeyDown(Keyboard.KEY_P))
+
+        if (Keyboard.isKeyDown(Keyboard.KEY_P))
         {
             this.glSetPerspective();
+        }
+
+        if (Keyboard.isKeyDown(Keyboard.KEY_O))
+        {
+            this.glSetOrthographic();
         }
     }
 
